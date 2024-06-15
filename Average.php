@@ -1,6 +1,8 @@
 /*not sure if this 
 formula thingy works correct me in 
 the comments*/
+/*make sure to use mobile phone 
+im a kid so i hope you guys understand */
 <html lang = "en">
 <head>
 <title>test</title>
